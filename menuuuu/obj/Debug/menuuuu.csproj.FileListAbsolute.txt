@@ -1,0 +1,7 @@
+C:\Users\админ\source\repos\menuuuu\menuuuu\bin\Debug\menuuuu.exe.config
+C:\Users\админ\source\repos\menuuuu\menuuuu\bin\Debug\menuuuu.exe
+C:\Users\админ\source\repos\menuuuu\menuuuu\bin\Debug\menuuuu.pdb
+C:\Users\админ\source\repos\menuuuu\menuuuu\obj\Debug\menuuuu.csprojAssemblyReference.cache
+C:\Users\админ\source\repos\menuuuu\menuuuu\obj\Debug\menuuuu.csproj.CoreCompileInputs.cache
+C:\Users\админ\source\repos\menuuuu\menuuuu\obj\Debug\menuuuu.exe
+C:\Users\админ\source\repos\menuuuu\menuuuu\obj\Debug\menuuuu.pdb
